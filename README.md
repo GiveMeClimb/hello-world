@@ -1,2 +1,3 @@
 # hello-world
-none
+
+This is my first project, Its purpose is to kkp.
